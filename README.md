@@ -114,7 +114,7 @@ Business Intelligence | Data Analytics | Machine Learning
 
 ### Conecta conmigo
 
-* LinkedIn: *(agregar enlace)*
+* LinkedIn: *[(https://www.linkedin.com/in/carlos-gonzalez-980b44167/)*
 * GitHub: https://github.com/c-iagonzalez
 
 ---
