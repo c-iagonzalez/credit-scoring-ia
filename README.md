@@ -128,11 +128,9 @@ Este proyecto forma parte de mi portafolio profesional orientado a analítica av
 ### Distribución de la Variable Objetivo
 
 Análisis de la proporción entre clientes que incumplen y aquellos que cumplen con sus obligaciones financieras.
-
 ![Distribución Target](images/Proporción%200-No%20incumplen%20vs%201-Incumplem.png)
 
 ---
-
 ### Desempeño del Modelo XGBoost
 
 El modelo XGBoost presentó el mejor desempeño entre los algoritmos evaluados para la clasificación del riesgo crediticio.
@@ -140,23 +138,16 @@ El modelo XGBoost presentó el mejor desempeño entre los algoritmos evaluados p
 ![XGBoost ROC AUC](images/ROC%20AUC%20-%20XGBoost.png)
 
 ---
-
 ### Modelo Ganador
-
 Comparación final y desempeño del modelo seleccionado.
-
 ![Modelo Ganador](images/Modelo%20ganador%20ROC%20-%20AUC%20-%20XGBoost.png)
 
 ---
-
 ### Variables Más Influyentes
-
 Identificación de las variables con mayor impacto en la predicción del incumplimiento crediticio.
-
 ![Feature Importance](images/Variables%20de%20mayor%20influencia.png)
 
 ## 🏆 Resultados del Modelo
-
 | Métrica           | Modelo Ganador               |
 | ----------------- | ---------------------------- |
 | Algoritmo         | XGBoost                      |
